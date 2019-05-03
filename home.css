@@ -1,6 +1,6 @@
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
 html {
-  font-family:sans-serif;
+  font-family:serif; // this might not be good
   -ms-text-size-adjust:100%;
   -webkit-text-size-adjust:100%
 }
@@ -152,7 +152,7 @@ html {
   -webkit-tap-highlight-color:transparent
 }
 body {
-  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family:Georgia, serif;
   font-size:14px;
   line-height:1.42857;
   color:#333;
@@ -219,7 +219,7 @@ hr {
   border:0
 }
 h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
-  font-family:"Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family:Georgia, serif;
   font-weight:500;
   line-height:1.1;
   color:#7b0d1e
